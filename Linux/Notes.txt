@@ -25,3 +25,51 @@ You can use a variety of command-line or GUI-based text editors such as GNU nano
 Deb and RPM packages contain software updates and installation files. 
 
 You can use GUI-based and command-line package managers to update and install software on Linux systems.
+
+A shell is an interactive user interface 
+
+You can use shell commands for navigating and working with files and directories, and to zip and unzip files 
+
+You can use the “curl” and “wget” commands to display and download files from URLs 
+
+The “echo” command prints string or variable values 
+
+The “cat” and “tail” commands display file contents 
+
+You can get user information with the "whoami" and "id" commands 
+
+You can check system disk usage using the "df" command 
+
+The “ls” command lists all files and directories contained within a specified directory tree 
+
+The “cd” command allows you to navigate directories 
+
+The “touch” command allows you to create a file or update its last–modified timestamp 
+
+The “mkdir” command creates directories and “rmdir” deletes empty directories 
+
+You can determine line, word, and character counts with “wc” 
+
+You can use “grep” to get the lines of a file matching your desired criteria 
+
+The “tar” command decompresses and unpacks a “tar.gz” archive 
+
+You can view network configuration with “hostname” and “ifconfig” 
+
+A shell script is an executable text file that begins with a ‘shebang’ interpreter directive 
+
+Shell scripts are used to run commands and programs and can interpret command line arguments 
+
+Filters are shell commands, and the pipe operator allows you to chain filter commands 
+
+Shell variables can be assigned values with ‘=’ and listed using ‘set’ 
+
+Environment variables are shell variables with extended scope; create with ‘export,’ list with ‘env’ 
+
+Jobs can be scheduled to run periodically at selected times 
+
+‘m h dom mon dow command’ is the cron job syntax 
+
+Command substitution is used to replace a command with its output 
+
+The Bash shell-scripting feature ‘concurrent mode’ allows commands to run in parallel 
